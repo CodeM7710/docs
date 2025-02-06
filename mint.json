@@ -18,12 +18,12 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "https://discord.gg/c5Zaj2PJRk"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Add Warden",
+    "url": "https://avicenna.click/add-warden"
   },
   "tabs": [
     {
